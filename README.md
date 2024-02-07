@@ -17,8 +17,8 @@ It uses embeddings and vector stores to send the relevant information to the LLM
 via the terminal using stdin and stdout. Press `q` to escape the chat window.
 
 I wrote an article which explores some of the concepts here, as well as walks through building each of the scripts.
-[Can read that here](https://medium.com/@ssmaameri/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339)
-
+[Can read that here](https://medium.com/@ssm/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339)
+[take here](https://dev.to/jhparmar/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgptthe-best-part-210f)
 
 ## Getting started
 
